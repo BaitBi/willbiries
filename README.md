@@ -1,4 +1,4 @@
-# willbiries - Учебный проект в Glo Academu
+# willberies - Учебный проект в Glo Academu
 Выполнил проект Makalich Denis
 ## В проекте использовались технологии:
 - HTML
